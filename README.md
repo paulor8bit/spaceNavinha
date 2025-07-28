@@ -1,4 +1,5 @@
 "# spaceNavinha" 
 Site: https://spacenavinha.surge.sh/
-<img width="1889" height="946" alt="image" src="https://github.com/user-attachments/assets/672ba73d-ec9d-4ebf-9169-b34690c8647c" />
+<img width="1805" height="870" alt="image" src="https://github.com/user-attachments/assets/499c477e-31a5-4ee8-90ab-2bb8aa5c5c26" />
+
 
